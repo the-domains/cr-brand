@@ -1,0 +1,23 @@
+name: CR Brand
+favicon: null
+layout_spectrum: 0.24885553284548223
+typography_spectrum: 0.48721277015283704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03767402470111847
+  lightness: 0.6457617224659771
+  saturation: 0.33594765956513584
+  rhythmicContrast: 0.23720107227563858
+purpose: []
